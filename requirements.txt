@@ -1,0 +1,7 @@
+h5py==3.7.0
+numpy==1.23.5
+pytorch_lightning==2.0.2
+requests==2.32.3
+torch==2.2.2
+torchmetrics==0.10.3
+tqdm==4.64.1
